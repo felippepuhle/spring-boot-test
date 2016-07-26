@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/spring-boot-test-0.0.1.jar
