@@ -4,6 +4,6 @@
 
 <templates:app>
     <jsp:body>
-        body
+        hello world
     </jsp:body>
 </templates:app>
