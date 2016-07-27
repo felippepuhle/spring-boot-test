@@ -56,8 +56,9 @@
         
         <!-- jstl e jsp -->
         <dependency>
-            <groupId>javax.servlet</groupId>
+            <groupId>javax.servlet.jsp.jstl</groupId>
             <artifactId>jstl</artifactId>
+            <version>1.2</version>
         </dependency>
     </dependencies>
     
