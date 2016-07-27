@@ -2,7 +2,7 @@
 
 <%@ taglib prefix="templates" tagdir="/WEB-INF/tags/templates" %>
 <%@ taglib prefix="t" tagdir="/WEB-INF/tags/" %>
-<%@ taglib prefix="c" uri="http://java.sun.com/jstl/core" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 <%@ attribute name="css" fragment="true" %>
 <%@ attribute name="js" fragment="true" %>
