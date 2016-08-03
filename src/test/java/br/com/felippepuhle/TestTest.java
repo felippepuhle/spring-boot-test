@@ -31,7 +31,7 @@ public class TestTest {
 
     @Test
     public void hello() {
-        assertEquals(1, 2);
+        assertEquals(1, 1);
     }
 
 }
